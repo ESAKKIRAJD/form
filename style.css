@@ -1,0 +1,12 @@
+body{
+	background-color: #fff;
+	font-family: 'Roboto', sans-serif;
+}
+.container{
+	width: 50%;
+	margin-top: 50px;
+
+}
+.form{
+	background-color: #dedede;
+}
